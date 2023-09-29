@@ -1,0 +1,150 @@
+Hito 1
+
+Alumno:
+
+Matias Fernandez
+
+**Definición**
+
+El activo a  estudiar será Enel Chile S.A., la cual actualmente es el holding mas importante de Chile. Enel se origina en Italia, donde comenzó como una entidad pública en el año 1962 y ha evolucionado hasta convertirse en una empresa privada que opera en más de 30 países. En el contexto chileno, la empresa se estableció inicialmente bajo el nombre de Enersis Chile S.A. en 2016, pero hacia fines de ese mismo año cambió su denominación a Enel Chile S.A.
+
+En la actualidad, Enel Chile S.A. posee activos totales que ascienden a la impresionante cifra de \$11.865.578 millones de pesos en Chile. Esta magnitud de recursos refleja el papel esencial de Enel Chile S.A. en el sector eléctrico chileno.
+
+**Motivación**
+
+La  Asociación de Empresas Eléctricas de Chile A.G., en Chile, la cual es una asociación gremial de las empresas que agrupa las compañías de distribución y transmisión eléctricas, tiene de integrantes a:
+
+-   CGE (Corporación Estatal de la Red Eléctrica de China)
+
+-   Enel Chile
+
+-   Grupo SAESA
+
+-   Chilquinta Energía
+
+-   Emelca
+
+-   Empresa eléctrica Puente alto 
+
+-   Empresa eléctrica Municipalidad de Til Til
+
+Tras analizar las empresas que integran la asociación gremial, se pudo observar que actualmente Enel Chile es la empresa líder en el mercado eléctrico, teniendo más de 2 millones de clientes actualmente y que abarca más de 2000 km². Además de que cuenta con una capacidad instalada neta que supera los 5500 MW de las cuales el 67% viene de energías renovables. Por lo anterior, la decisión de elegir Enel Chile se basó básicamente por cómo lidera el mercado eléctrico y su forma de trabajar con sus recursos.
+
+Además de los rasgos detallados anteriormente, la elección sobre el activo de Enel Chile se vio caracterizada por su sustentabilidad, ya que como indican sus Objetivos de Desarrollo Sostenible (ODS), actualmente se encuentran integrados a 6 de los 17 objetivos, siendo estos:
+
+-   Educación de calidad
+
+-   Energía asequible y no contaminante
+
+-   Trabajo decente y crecimiento económico
+
+-   Industria, innovación e infraestructura
+
+-   Ciudades y comunidades sostenibles
+
+-   Acción por el clima
+
+-   
+
+El hecho de estar integrados a los ODS, indica un mayor valor para los accionistas que invierten en Enel, a los grupos de interés y a la sociedad. Lo anterior conlleva a que la misma empresa contribuya a modelos que harán su propio negocio más sostenible.
+
+**Contexto**
+
+Debido a que actualmente Enel Chile maneja todas sus operaciones en Chile, las fluctuaciones económicas, y las medidas intervencionistas por parte del gobierno pueden afectar directamente tanto los resultados de las operaciones como la situación financiera de la empresa.Por la misma razón, los ingresos consolidados de la compañía están sujetos totalmente a la economía chilena, y variables económicas como la inflación afectan directamente los flujos Enel.
+
+En los últimos años Chile se ha visto muy afectado por cambios tanto sociales, políticos y naturales, los cuales han afectado directamente a la inversión y junto a ello a las empresas que se manejan dentro del país. Dentro de los cambios más significativos, se produjo un movimiento social muy grande a finales del periodo de 2019, el cual vino seguido de una pandemia durante el 2020 y 2021  y después un cambio de gobierno el cual vino de la mano con hacer cambios a la constitución del país. Todo lo anterior se ha visto reflejado en las inversiones de las empresas y sus acciones.
+
+Gráfico 1
+
+(Fuente: Bolsa de Santiago)
+
+En el gráfico anterior se observa el valor que han tenido las acciones de Enel Chile desde 2018 hasta el 2023, el cual se ve claramente reflejado lo dicho anteriormente con respecto a los cambios que ha habido en Chile. Se puede observar como es 	que el precio de las acciones tuvo una caída drástica desde finales de 2020 que duró aproximadamente hasta mediados de 2022. Durante ese periodo es cuando se registraron los mayores niveles de inflación, como se puede observar en la siguiente imagen, la cual muestra el índice de precios al consumidor desde el año 2018 hasta la actualidad.
+
+Gráfico 2
+
+(Fuente: Banco Central)
+
+Para el 31 de diciembre de 2022 el EBITDA consolidado ascendió a \$1.173.203 millones de pesos chilenos y tuvo un aumento de \$652.018 millones con respecto al año anterior. La información con respecto al EBITDA es muy importante para Enel ya que muestra en de manera total todas las ganancias netas de la empresa antes de los descuentos. La información entregada por los EBITDA y de su aumento muestran que actualmente Enel funciona como negocio y es cada vez más próspero teniendo variaciones una variación de 124.9% entre periodos según indica el informe de los estados financieros de la empresa.
+
+Con respecto a los flujos de los gastos no operacionales, según indica el informe de estados financieros de Enel, en los últimos años se produjeron pérdidas debido a la crisis sanitaria, en donde fueron promulgadas las leyes 21.249 y 21.340, las cuales se contemplaban medidas excepcionales en favor de los usuarios finales de servicios sanitarios, electricidad y gas de red, donde se les daba la posibilidad de prorratear las deudas contraídas en hasta 48 cuotas sin multas ni intereses.
+
+Otra variable económica que afecta a la empresa son las inversiones temporales en instrumentos de renta fija, las cuales suponen gastos no operacionales que afectan directamente a los ingresos financieros de la empresa.
+
+**Caracterización de la deuda**
+
+Las acciones de Enel, se venden bajo el nombre de de ENELCHILE, y actualmente tienen un valor de \$53.90, el número de accionistas totales con los que cuenta Enel es de 6.000 y actualmente existen 69.166.557.220 acciones suscritas pagadas a la fecha de 28 de septiembre de 2023. Actualmente los principales accionistas son:
+
+-   ENEL SPA
+
+-   CITIBANK N.A. SEGÚN CIRCULAR 1375 S.V.S.
+
+-   BANCO DE CHILE POR CUENTA DE TERCEROS NO
+
+Enel Chile a la fecha solo se encuentra emitiendo acciones comunes, y no hay registros de acciones preferentes. Por otro lado se tienen registros de emisiones de bonos tanto en Chile como a otros países, durante el año 2018 se dio a conocer que fue emitido el primer bono norteamerincano de Enel Chile a Estados Unidos por mil millones de dólares a un plazo de 10 años.
+
+**Emisiones**
+
+La emisión de acciones por parte de Enel Chile, es en su totalidad por acciones comunes, en donde el mayor porcentaje de estas lo tiene la misma empresa internacional Enel SPA, con sobre 64% de las acciones totales. mientras que el resto del porcentaje lo tienen distintos bancos de Chile.
+
++---------------------------------------+------+-------+------+-------+-------+
+| Divisa:CLP                            | 2018 | 2019  | 2020 | 2021  | 2022  |
++---------------------------------------+------+-------+------+-------+-------+
+| Dividendos por acción (FY)            | ‪3.14‬ | ‪4.23‬  | ‪0.00‬ | ‪0.37‬  | ‪5.43‬  |
++---------------------------------------+------+-------+------+-------+-------+
+| Rentabilidad por dividendo (FY) %     | 4.69‬ | 6.00‬  | 0.00‬ | ‪‪‪1.24‬  | 13.93‬ |
++---------------------------------------+------+-------+------+-------+-------+
+| Ratio de reparto de dividendos (FY) % | 5.44‬ | 98.79‬ | ---  | 30.00‬ | ‪‪30.00‬ |
++---------------------------------------+------+-------+------+-------+-------+
+
+Tabla 1
+
+(Fuente: TradingView)
+
+**Derivados**
+
+Un activo derivado Enel Chile es la luz, ya que gracias a la energía que produce la empresa, puede distribuir tal energía a lo largo de sus zonas de cobertura y cobrar por el uso de la misma.
+
+Con respecto a los precios que tiene la luz actualmente en Chile, se puede ver en el gráfico como es que su valor a ido al alza en términos de pesos por Kwh, lo cual se transforma en en ingresos hacia Enel Chile
+
+Gráfico 3
+
+(Fuente: Comisión Nacional de Energía)
+
+**Portafolio**
+
+En relación a los activos considerados por el grupo, se debe tomar la decisión de cómo distribuir los porcentajes de cada uno de ellos, con el fin de determinar un portafolio de inversión. Este último se creará en base a ciertos criterios que se comentarán a continuación, con el fin de maximizar los retornos manteniendo la exposición al riesgo lo más controlado posible.
+
+|                 |            |
+|-----------------|------------|
+| Activo          | Exposición |
+| Enel Chile S.A. | 20%        |
+| Banco de Chile  | 40%        |
+| Cencosud S.A.   | 40%        |
+
+Estos porcentajes fueron distribuidos de esta manera, ya que cada activo tiene aspectos favorables como desfavorables pero en relación a la rentabilidad esperada se cree que estos representan un portafolio diversificado correctamente. A continuación se identificarán con mayor precisión los puntos relevantes para la determinación de los porcentajes en base a cada activo en cuestión. 
+
+Para el activo BANCO DE CHILE, se determinó destinar un 40\$% del portafolio ya que  ha demostrado ser el banco con mayores utilidades en comparación a su competencia y destaca por un alto ROE. Además, se espera que siga con tendencia positiva, además de seguir superando a su competencia. Es por esto que se determinó asignar un 40% del portafolio a las acciones del Banco de Chile.
+
+Para el activo CENCOSUD S.A , se determinó destinar un 40% del portafolio a este activo debido a que la empresa ha logrado en el último tiempo estabilizar los resultados en Brasil y Colombia lo que estaba impactando negativamente a la compañía. Por otro lado, el negocio relacionado al retail y supermercados se ha visto en alza lo que representa un mayor ingreso para la compañía y beneficio para el país. Continuando con lo anterior, parece importante destinar un porcentaje a este activo debido a que, en relación a las diversas instituciones de clasificación de riesgo, Cencosud S.A figura como una institución estable lo que atrae nuevos inversionistas y posibles retribuciones en relación a las utilidades de la empresa para ser repartidas tal como lo fueron los dividendos otorgados a los accionistas recientemente.  
+
+Para el activo ENEL CHILE S.A, se determinó destinar un menor porcentaje que los otros activos en el portafolio, debido a que esta empresa ha tenido ciertas dificultades en el último tiempo. En primer lugar, se puede identificar la mega sequía que se ha vivido en los últimos años, lo que complica la obtención de energía mediante las hidroeléctricas. Esto último, luego de el transcurso del año 2023, se ha visto mejorado por el fenómeno del niño, el cual ha producido una mayor cantidad de precipitaciones generando con ello la recuperación de embalses de acumulación de agua. Lo anterior, beneficia a esta empresa para poder producir energía, pero cabe mencionar que sigue siendo una empresa que representa un mayor riesgo para los inversionistas debido a que se ve afectada por fenómenos naturales incontrolables por el ser humano. Es por este motivo, que parece razonable destinar un porcentaje más cauto con el fin de rentabilizar de mejor manera la inversión controlando de mejor manera la exposición al riesgo.
+
+**Bibliografía**
+
+Dividendos de ENEL CHILE SA -- BCS:ENELCHILE -- TradingView. (s.f.). TradingView. <https://es.tradingview.com/symbols/BCS-ENELCHILE/financials-dividends/?selected=dps_common_stock_prim_issue,dividends_yield,dividend_payout_ratio>
+
+Enel chile realiza exitosa primera emisión de bono en estados unidos. (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/es/conoce-enel/prensa/press-enel-chile/d201806-enel-chile-realiza-exitosa-primera-emision-de-bono-en-estados-unidos.html>
+
+ENEL CHILE S.A. - 12 mayores accionistas - CMF. (s.f.). Inicio - CMF Chile - Comisión para el Mercado Financiero Chile (portal). <https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&amp;rut=76536353&amp;grupo=&amp;tipoentidad=RVEMI&amp;row=&amp;vig=VI&amp;control=svs&amp;pestania=5>
+
+Objetivos de desarrollo sostenible. (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/es/sostenibilidad/nuestro-compromiso/objetivos-de-desarrollo-sostenible.html>
+
+Santiagox. (s.f.). ShieldSquare Captcha. <https://www.bolsadesantiago.com/resumen_instrumento/ENELCHILE>
+
+(s.f.). Comisión Nacional de Energía -. <https://www.cne.cl/wp-content/uploads/2023/09/Precio_Medio_de_Mercado-09_23.pdf>
+
+(s.f.). Enel Chile - enel.cl. <https://enel.cl/content/dam/enel-cl/inversionistas/enel-chile/informacion-para-el-accionista/resultados-trimestrales/analisis-razonado/2023/Analisis-Razonado-Enel-Chile-Junio-2023.pdf>
+
+(s.f.). Enel Chile - enel.cl. <https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-chile/informacion-para-el-accionista/resultados-trimestrales/analisis-razonado/2023/Analisis-Razonado-Enel-Chile-Marzo-2023.pdf>
+
+(s.f.). Enel Chile - enel.cl. <https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-distribucion-chile/informacion-para-el-accionista/factores-de-riesgo/factores-de-riesgo-eneld-dx.pdf>
