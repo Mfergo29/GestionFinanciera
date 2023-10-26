@@ -58,7 +58,7 @@ Gráfico 1
 
 (Fuente: Bolsa de Santiago)
 
-En el gráfico anterior se observa el valor que han tenido las acciones de Enel Chile desde 2018 hasta el 2023, el cual se ve claramente reflejado lo dicho anteriormente con respecto a los cambios que ha habido en Chile. Se puede observar como es 	que el precio de las acciones tuvo una caída drástica desde finales de 2020 que duró aproximadamente hasta mediados de 2022. Durante ese periodo es cuando se registraron los mayores niveles de inflación, como se puede observar en la siguiente imagen, la cual muestra el índice de precios al consumidor desde el año 2018 hasta la actualidad.
+En el gráfico anterior se observa el valor que han tenido las acciones de Enel Chile desde 2018 hasta el 2023, el cual se ve claramente reflejado lo dicho anteriormente con respecto a los cambios que ha habido en Chile. Se puede observar como es que el precio de las acciones tuvo una caída drástica desde finales de 2020 que duró aproximadamente hasta mediados de 2022. Durante ese periodo es cuando se registraron los mayores niveles de inflación, como se puede observar en la siguiente imagen, la cual muestra el índice de precios al consumidor desde el año 2018 hasta la actualidad.
 
 Gráfico 2
 
@@ -86,15 +86,15 @@ Enel Chile a la fecha solo se encuentra emitiendo acciones comunes, y no hay reg
 
 La emisión de acciones por parte de Enel Chile, es en su totalidad por acciones comunes, en donde el mayor porcentaje de estas lo tiene la misma empresa internacional Enel SPA, con sobre 64% de las acciones totales. mientras que el resto del porcentaje lo tienen distintos bancos de Chile.
 
-+---------------------------------------+------+-------+------+-------+-------+
-| Divisa:CLP                            | 2018 | 2019  | 2020 | 2021  | 2022  |
-+---------------------------------------+------+-------+------+-------+-------+
-| Dividendos por acción (FY)            | ‪3.14‬ | ‪4.23‬  | ‪0.00‬ | ‪0.37‬  | ‪5.43‬  |
-+---------------------------------------+------+-------+------+-------+-------+
-| Rentabilidad por dividendo (FY) %     | 4.69‬ | 6.00‬  | 0.00‬ | ‪‪‪1.24‬  | 13.93‬ |
-+---------------------------------------+------+-------+------+-------+-------+
-| Ratio de reparto de dividendos (FY) % | 5.44‬ | 98.79‬ | ---  | 30.00‬ | ‪‪30.00‬ |
-+---------------------------------------+------+-------+------+-------+-------+
++---------------------------------------+-------+-------+--------------------------------------------------------------------------+-------+-------+
+| Divisa:CLP                            | 2018  | 2019  | 2020                                                                     | 2021  | 2022  |
++---------------------------------------+-------+-------+--------------------------------------------------------------------------+-------+-------+
+| Dividendos por acción (FY)            | ‪3.14‬  | ‪4.23‬  | ‪0.00‬                                                                     | ‪0.37‬  | ‪5.43‬  |
++---------------------------------------+-------+-------+--------------------------------------------------------------------------+-------+-------+
+| Rentabilidad por dividendo (FY) %     | 4.69‬  | 6.00‬  | 0.00‬                                                                     | ‪‪‪1.24‬  | 13.93‬ |
++---------------------------------------+-------+-------+--------------------------------------------------------------------------+-------+-------+
+| Ratio de reparto de dividendos (FY) % | 5.44‬  | 98.79‬ | ------------------------------------------------------------------------ | 30.00‬ | ‪‪30.00‬ |
++---------------------------------------+-------+-------+--------------------------------------------------------------------------+-------+-------+
 
 Tabla 1
 
@@ -135,7 +135,7 @@ Dividendos de ENEL CHILE SA -- BCS:ENELCHILE -- TradingView. (s.f.). TradingView
 
 Enel chile realiza exitosa primera emisión de bono en estados unidos. (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/es/conoce-enel/prensa/press-enel-chile/d201806-enel-chile-realiza-exitosa-primera-emision-de-bono-en-estados-unidos.html>
 
-ENEL CHILE S.A. - 12 mayores accionistas - CMF. (s.f.). Inicio - CMF Chile - Comisión para el Mercado Financiero Chile (portal). <https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&amp;rut=76536353&amp;grupo=&amp;tipoentidad=RVEMI&amp;row=&amp;vig=VI&amp;control=svs&amp;pestania=5>
+ENEL CHILE S.A. - 12 mayores accionistas - CMF. (s.f.). Inicio - CMF Chile - Comisión para el Mercado Financiero Chile (portal). <https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=76536353&grupo=&tipoentidad=RVEMI&row=&vig=VI&control=svs&pestania=5>
 
 Objetivos de desarrollo sostenible. (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/es/sostenibilidad/nuestro-compromiso/objetivos-de-desarrollo-sostenible.html>
 
@@ -148,3 +148,23 @@ Santiagox. (s.f.). ShieldSquare Captcha. <https://www.bolsadesantiago.com/resume
 (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-chile/informacion-para-el-accionista/resultados-trimestrales/analisis-razonado/2023/Analisis-Razonado-Enel-Chile-Marzo-2023.pdf>
 
 (s.f.). Enel Chile - enel.cl. <https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-distribucion-chile/informacion-para-el-accionista/factores-de-riesgo/factores-de-riesgo-eneld-dx.pdf>
+
+Hito 2
+
+De acuerdo al caso de administración de efectivo de Braam Industries presente en el libro de ROSS, se procedió a resolver este, en base a los datos del activo financiero Banco de Chile. Para esto, fue necesario comprender y determinar ciertos valores que se observan en la imagen del archivo excel que se presenta a continuación.
+
+![](Screenshot_1.png)
+
+Imagen 4 : Resolución problema en excel
+
+En primer lugar se tienen las ventas anuales, para ello fue necesario investigar en la página del banco, cúal era el valor de estas, logrando obtener para el año 2022 un monto de : \$55.255.362. Posterior a ello se tuvo que indagar con respecto a la tasa de incumplimiento o morosidad, obteniendo una tasa de : 1,32% (Fuente : CMF). Posterior a ello, se tuvo que realizar el cálculo para determinar los costos administrativos utilizando la fórmula : Total gastos de administración / Ventas anuales (en %) logrando el valor de : 0,64%. Finalmente, con estos datos y otros provistos por enunciado, se logró determinar el VPN (valor presente neto) con el fin de determinar cúal opción de las 3 disponibles, es la que otorga el mayor valor. Estas opciones se determinaron en base a los datos propuestos actualmente y luego con estos, a través de la regla de tres, se fue rellenando la tabla hasta obtener lo necesario para realizar el estudio en cuestión. Con la realización de estos cálculos, se logró determinar que la opción que maximiza el VPN es la opción 1 obteniendo un monto de : \$13.426.115 que se encuentra por sobre las otras 2 opciones disponibles.
+
+Ahora bien, respondiendo a la primera pregunta propuesta por el libro de Ross, la política de crédito que debiese adoptar la empresa es la opción 1, debido a que esta es la que representa un mayor beneficio para la empresa.
+
+Continuando con las preguntas, ahora se tiene que estudiar si es factible que la opción 2 tenga tasa de incumplimiento y costos administrativos mayor a los de la opción 3. Esto, en base a los resultados provistos para el activo estudiado "Banco de Chile" es factible y puede deberse a varios factores tales como:
+
+Mejores prácticas administrativas : La reducción en los costos administrativos podría demostrar que la Opción 2 tiene procedimientos administrativos mejor optimizados esto se logra a través de la automatización de tareas y utilización de nuevas tecnologías.
+
+Economías de escala : En la teoría, se puede tener que la opción 2 tenga ventas similares o menores que la opción 3, esto podría lograrse en base a la optimización de procesos en las operaciones con el fin de aprovechar el concepto de economias de escala.
+
+Se puede considerar viable que una opción tenga niveles más bajos en cuanto a tasas de incumplimiento y costos administrativos en relación con otra alternativa, basándose en las políticas internas, estrategias de gestión y características específicas del mercado objetivo. Se debe realizar un análisis profundo de las políticas y prácticas de cada opción con el fin de comprender plenamente las razones detrás de estas diferencias.
