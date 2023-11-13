@@ -23,20 +23,20 @@ end <- as_date("2023-11-13")
 CMPC <- tq_get("CMPC.SN", get = "stock.prices", from = "2000-01-01", to = end)
 VAPORES <- tq_get("VAPORES.SN", get = "stock.prices", from = "2000-01-01", to = end)
 ENELCHILE <- tq_get("ENELCHILE.SN", get = "stock.prices", from = "2000-01-01", to = end)
-CL <- rbind(CMPC,VAPORES,CONCHATORO)
+CL <- rbind(ENELCHILE)
 ```
 
-El activo CMPC tiene un valor promedio para el intervalo igual a `r`
+El activo ENELCHILEtiene un valor promedio para el intervalo igual a `r`
 
 ```{r}
-round(mean(CMPC$close),digits=0)
+round(mean(ENELCHILE$close),digits=0)
 ```
 
 ```{r}
-CMPC %>%
+ENELCHILE %>%
     ggplot(aes(x = date, y = close)) +
     geom_line() +
-    labs(title = "CMPC Line Chart", y = "Closing Price", x = "") + 
+    labs(title = "ENELCHILE Line Chart", y = "Closing Price", x = "") + 
     theme_tq() +
     geom_hline(yintercept = mean(CMPC$close), linetype = "dashed", color = "red")
 
@@ -44,7 +44,7 @@ CMPC %>%
 
 ```{r}
 #| warning: false
-CMPC %>%
+ENELCHILE %>%
     ggplot(aes(x = date, y = close)) +
     geom_candlestick(aes(open = open, high = high, low = low, close = close)) +
     labs(title = "AAPL Candlestick Chart", y = "Closing Price", x = "") +
