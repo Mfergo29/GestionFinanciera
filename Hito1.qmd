@@ -2,6 +2,55 @@ Hito 1
 
 Alumno:
 
+```{r}
+#| message: false
+#| echo: false
+# Esto ya debiera estar cargado en el proyecto en posit.cloud
+# devtools::install_github("business-science/tidyquant")
+# Loads tidyquant, lubridate, xts, quantmod, TTR, and PerformanceAnalytics
+library(tidyverse)
+library(tidyquant)  
+```
+
+```{r}
+#| echo: false
+# Alternativamente Use FANG data set
+# data("FANG") 
+end <- as_date("2023-11-13")
+# Get AAPL and AMZN Stock Prices
+# AAPL <- tq_get("AAPL", get = "stock.prices", from = "2015-09-01", to = end)
+# AMZN <- tq_get("AMZN", get = "stock.prices", from = "2000-01-01", to = end)
+CMPC <- tq_get("CMPC.SN", get = "stock.prices", from = "2000-01-01", to = end)
+VAPORES <- tq_get("VAPORES.SN", get = "stock.prices", from = "2000-01-01", to = end)
+ENELCHILE <- tq_get("ENELCHILE.SN", get = "stock.prices", from = "2000-01-01", to = end)
+CL <- rbind(CMPC,VAPORES,CONCHATORO)
+```
+
+El activo CMPC tiene un valor promedio para el intervalo igual a `r`
+
+```{r}
+round(mean(CMPC$close),digits=0)
+```
+
+```{r}
+CMPC %>%
+    ggplot(aes(x = date, y = close)) +
+    geom_line() +
+    labs(title = "CMPC Line Chart", y = "Closing Price", x = "") + 
+    theme_tq() +
+    geom_hline(yintercept = mean(CMPC$close), linetype = "dashed", color = "red")
+
+```
+
+```{r}
+#| warning: false
+CMPC %>%
+    ggplot(aes(x = date, y = close)) +
+    geom_candlestick(aes(open = open, high = high, low = low, close = close)) +
+    labs(title = "AAPL Candlestick Chart", y = "Closing Price", x = "") +
+    theme_tq()
+```
+
 Matias Fernandez
 
 **Definición**
